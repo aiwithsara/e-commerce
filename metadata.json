@@ -1,0 +1,8 @@
+
+{
+  "name": "Swarnapakshi Sweets and Snacks",
+  "description": "Premium traditional sweets and savouries delivered to your doorstep.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
